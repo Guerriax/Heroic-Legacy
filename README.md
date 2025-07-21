@@ -119,3 +119,76 @@ Système de titres affichés
  • Gestion dynamique des titres obtenus
  • Affichage dans le panneau personnage et lors des interactions sociales
  • Statut : Script prêt, intégration UI à finir
+
+
+ Heroic Legacy — Patch Notes & Checklist Détaillée
+
+Patch v0.1.0 (Début de développement)
+
+Date : 2025-07-21
+
+Systèmes de base
+
+
+
+PNJ & Fonctions
+
+
+
+UI
+
+
+
+Patch v0.2.0 (Systèmes PvP & Titres)
+
+Date estimée : 2025-07-30
+
+Titres
+
+
+
+Système PvP
+
+
+
+Montures
+
+
+
+Patch v0.3.0 (Donjons Héroïques)
+
+Date estimée : 2025-08-10
+
+Donjons héroïques Vanilla
+
+
+
+Quêtes
+
+
+
+Patch v0.4.0 (Effort de guerre & Factions)
+
+Date estimée : 2025-08-20
+
+Factions
+
+
+
+Quêtes
+
+
+
+Patch v0.5.0 (Transmog & Cosmétiques)
+
+Date estimée : 2025-09-01
+
+Transmogrification avancée
+
+
+
+☑ = fait • [ ] = à faire • Tu peux me demander d’ajouter des catégories comme "Loots" ou "World Events" si besoin.
+
+Souhaites-tu une version en markdown stylé (ou même exportable en PDF) ?
+
+
