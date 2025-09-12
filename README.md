@@ -21,11 +21,11 @@ Spectral and tempestuous Gladiator titles, achievements, rewards.
 
 Titres
 
-Keeper of the Broods
- • Condition : Tuer 10 dragons « Brood » dans les raids personnalisés
- • Prérequis : Quête « Broodbreaker » complétée
- • Cooldown : 7 jours entre chaque obtention
- • Statut : Script et conditions en place, test final en cours
+     Keeper of the Broods
+     • Condition : Tuer 10 dragons « Brood » dans les raids personnalisés
+     • Requis : Quête « Broodbreaker » complétée
+     • Description : Titre prestigieux affiché PvE
+     • Statut : Script et conditions en place, test final en cours
 
     Spectral Gladiator
      • Condition : Être classé dans le top 100 de la saison PvP 1 (3v3 arène)
