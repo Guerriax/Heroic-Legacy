@@ -1,6 +1,10 @@
 # Heroic-Legacy
 Project HL
 
+### MPQ patches content ###
+Patch-Z :
+
+
 BWL Titles Effects  : 
 
 Aura saying HC Killed
