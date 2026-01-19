@@ -4,6 +4,8 @@ Project HL
 ### MPQ patches content ###
 Patch-Z :
 
+     interfaces\FrameXML\
+     • UnitPopup.lua (edited)
 
 BWL Titles Effects  : 
 
