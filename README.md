@@ -1,11 +1,15 @@
 # Heroic-Legacy
 Project HL
 
+
+
 ### MPQ patches content ###
 Patch-Z :
 
      interfaces\FrameXML\
      • UnitPopup.lua (edited)
+
+(todo)
 
 BWL Titles Effects  : 
 
@@ -15,14 +19,12 @@ Aura saying HC Killed
 
 
 
-mighty caravan mount (with working npc / seat passengers)
+-- mighty caravan mount (with working npc / seat passengers)
 
-Custom Realm  First working
+Custom Realm  First
 
-(todo)
 
 Spectral and tempestuous Gladiator titles, achievements, rewards.
-
 
 
 Titres
