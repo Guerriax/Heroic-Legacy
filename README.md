@@ -17,6 +17,14 @@ Project HL
 > 
 >      Lava Annihilator
 >      • HP were reduced from 97.110 HP to 45.318 HP
+> 
+>      Lava Surger
+>      • HP were reduced from 94.320 HP to 37.728 HP
+>      • Damages were reduced from *13 (modifier based) to *11
+> 
+>      Ancient Core Hound
+>      • HP were reduced from 113.000 HP to 64.571 HP
+>      • Damages were reduced from *18 (modifier based) to *16
 ### MPQ patches content ###
 Patch-Z :          
 
