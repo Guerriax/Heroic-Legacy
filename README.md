@@ -7,37 +7,46 @@ Project HL
 > ### Patch 1.0 ###
 > [RAID] The Molten Core has been completely changed, with difficulty going from 40 Players to 10 Players :
 > 
+>     * Bosses Tweak
+>
+>      Lucifron
+>      • HP were decreased from 351.000 HP to 146.250 HP
+>      • Damages were increased from *16 (modifier based) to *21
+>           Flamewaker Protector (Lucifron Adds)
+>                • HP were decreased from 90.650 HP to 36.260 HP
+>                • Damages were decreased from *13 (modifier based) to *11
+> 
 >     * Trash Mobs Tweak
 >
 >      Molten Giant
->      • HP were reduced from 129.000 HP to 51.792 HP
->      • Damages were reduced from *27 (modifier based) to *16
+>      • HP were decreased from 129.000 HP to 51.792 HP
+>      • Damages were decreased from *27 (modifier based) to *16
 >      
 >      Firelord
->      • HP were reduced from 97.110 HP to 45.318 HP
+>      • HP were decreased from 97.110 HP to 45.318 HP
 > 
 >      Lava Annihilator
->      • HP were reduced from 97.110 HP to 45.318 HP
+>      • HP were decreased from 97.110 HP to 45.318 HP
 > 
 >      Lava Surger
->      • HP were reduced from 94.320 HP to 37.728 HP
->      • Damages were reduced from *13 (modifier based) to *11
+>      • HP were decreased from 94.320 HP to 37.728 HP
+>      • Damages were decreased from *13 (modifier based) to *11
 > 
 >      Ancient Core Hound
->      • HP were reduced from 113.000 HP to 64.571 HP
->      • Damages were reduced from *18 (modifier based) to *16
+>      • HP were decreased from 113.000 HP to 64.571 HP
+>      • Damages were decreased from *18 (modifier based) to *16
 > 
 >      Molten Destroyer
->      • HP were reduced from 149.000 HP to 74.500 HP
+>      • HP were decreased from 149.000 HP to 74.500 HP
 >      • Damages were increased from *16 (modifier based) to *19
 > 
 >       Core Hound
->      • HP were reduced from 47.160 HP to 25.152 HP
->      • Damages were reduced from *10 (modifier based) to *8
+>      • HP were decreased from 47.160 HP to 25.152 HP
+>      • Damages were decreased from *10 (modifier based) to *8
 > 
 >      Flame Imp
->      • HP were reduced from 9.711 HP to 4.855 HP
->      • Damages were reduced from *7 (modifier based) to *4
+>      • HP were decreased from 9.711 HP to 4.855 HP
+>      • Damages were decreased from *7 (modifier based) to *4
 > 
 ### MPQ patches content ###
 Patch-Z :          
