@@ -26,6 +26,19 @@ Project HL
 >      Ancient Core Hound
 >      • HP were reduced from 113.000 HP to 64.571 HP
 >      • Damages were reduced from *18 (modifier based) to *16
+> 
+>      Molten Destroyer
+>      • HP were reduced from 149.000 HP to 74.500 HP
+>      • Damages were increased from *16 (modifier based) to *19
+> 
+>       Core Hound
+>      • HP were reduced from 47.160 HP to 25.152 HP
+>      • Damages were reduced from *10 (modifier based) to *8
+> 
+>      Flame Imp
+>      • HP were reduced from 9.711 HP to 4.855 HP
+>      • Damages were reduced from *7 (modifier based) to *4
+> 
 ### MPQ patches content ###
 Patch-Z :          
 
