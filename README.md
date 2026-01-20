@@ -5,15 +5,27 @@ Project HL
 
 > [!NOTE]
 > ### Patch 1.0 ###
-> [RAID] The Molten Core has been completely changed, with difficulty going from 40 Players to 10 Players
-
+> [RAID] The Molten Core has been completely changed, with difficulty going from 40 Players to 10 Players :
+>     * Trash Mobs Tweak
+>
+>      Molten Giant
+>      • HP were reduced from 129.000 HP to 51.792 HP
+>      • Damages were reduced from *27 (modifier based) to *16
+>      
+>      Firelord
+>      • HP were reduced from 97.110 HP to 45.318 HP
+> 
+>      Lava Annihilator
+>      • HP were reduced from 97.110 HP to 45.318 HP
 ### MPQ patches content ###
-Patch-Z :
+Patch-Z :          
 
      interfaces\FrameXML\
      • UnitPopup.lua (edited)
+          
 
-(todo)
+> [!CAUTION]
+> TODOLIST UNDER
 
 BWL Titles Effects  : 
 
