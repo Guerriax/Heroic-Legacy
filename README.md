@@ -49,10 +49,20 @@ Project HL
 >      • Damages were decreased from *7 (modifier based) to *4
 > 
 ### MPQ patches content ###
-Patch-Z :          
+
+
+ Patch-D :
+
+     DBFilesClient
+          • MapDifficulty.dbc
+               • ID 34 : Maxplayers (40 to 10) | DifficultyStrings (DIFFICULTY40 to 10)
+
+Patch-Z :
 
      interfaces\FrameXML\
-     • UnitPopup.lua (edited)
+          • interfaces\FrameXML\
+               • UnitPopup.lua (edited)
+
           
 
 > [!CAUTION]
