@@ -3,6 +3,10 @@ Project HL
 
 
 
+> [!NOTE]
+> ### Patch 1.0 ###
+> [RAID] The Molten Core has been completely changed, with difficulty going from 40 Players to 10 Players
+
 ### MPQ patches content ###
 Patch-Z :
 
