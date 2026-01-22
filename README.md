@@ -10,11 +10,11 @@ Project HL
 >     * Bosses Tweak
 >
 >      Lucifron
->      • HP were decreased from 351.000 HP to 146.250 HP
+>      • HP were increased from 351.000 HP to 420.136 HP
 >      • Damages were increased from *16 (modifier based) to *21
 >           Flamewaker Protector (Lucifron Adds)
->                • HP were decreased from 90.650 HP to 36.260 HP
->                • Damages were decreased from *13 (modifier based) to *11
+>                • HP were inceased from 90.650 HP to 103.600 HP
+>                • Damages were increased from *13 (modifier based) to *17
 > 
 >     * Trash Mobs Tweak
 >
