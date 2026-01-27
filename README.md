@@ -13,8 +13,16 @@ Project HL
 >      • HP were increased from 351.000 HP to 420.136 HP
 >      • Damages were increased from *16 (modifier based) to *21
 >           Flamewaker Protector (Lucifron Adds)
->                • HP were inceased from 90.650 HP to 103.600 HP
+>                • HP were increased from 90.650 HP to 103.600 HP
 >                • Damages were increased from *13 (modifier based) to *17
+>
+>      Garr
+>      • HP were increased from 659.000 HP to 1.201.510 HP
+>      • Damages were increased from *18 (modifier based) to *22
+>           Firesworn (Garr Adds)
+>                • Firesworn Squad Size : Reduced spawn count from 8 to 4.
+>                • HP were increased from 61.040 HP to 158.704 HP
+>                • Damages were Deceased from *14 (modifier based) to *10
 > 
 >     * Trash Mobs Tweak
 >
