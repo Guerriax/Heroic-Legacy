@@ -22,7 +22,10 @@ Project HL
 >           Flamewaker (Gehennas Adds)
 >                • HP were increased from 77.700 HP to 142.450 HP
 >                • Damage were increased from *13 (modifier based) to *20
-> 
+>
+>      Shazzarh
+>      • HP were increased from 351.000 HP to 882.818 HP
+>      • Damage were increased from *16 (modifier based) to *20
 > 
 >      Magmadar
 >      • HP were increased from 826.000 HP to 1.099.113 HP
