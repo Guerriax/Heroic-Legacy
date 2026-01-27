@@ -16,6 +16,11 @@ Project HL
 >                • HP were increased from 90.650 HP to 103.600 HP
 >                • Damage were increased from *13 (modifier based) to *17
 >
+>      Magmadar
+>      • HP were increased from 826.000 HP to 1.099.113 HP
+>      • Damage were increased from *17 (modifier based) to *24
+> 
+>
 >      Gehennas
 >      • HP were increased from 351.000 HP to 917.386 HP
 >      • Damage were increased from *16 (modifier based) to *19
@@ -23,22 +28,22 @@ Project HL
 >                • HP were increased from 77.700 HP to 142.450 HP
 >                • Damage were increased from *13 (modifier based) to *20
 >
->      Shazzarh
->      • HP were increased from 351.000 HP to 882.818 HP
->      • Damage were increased from *16 (modifier based) to *20
-> 
->      Magmadar
->      • HP were increased from 826.000 HP to 1.099.113 HP
->      • Damage were increased from *17 (modifier based) to *24
-> 
->
->      Garr
+>       Garr
 >      • HP were increased from 659.000 HP to 1.201.510 HP
 >      • Damage were increased from *18 (modifier based) to *22
 >           Firesworn (Garr Adds)
 >                • Firesworn Squad Size : Reduced spawn count from 8 to 4.
 >                • HP were increased from 61.040 HP to 158.704 HP
 >                • Damage were Decreased from *14 (modifier based) to *10
+>
+>      Shazzarh
+>      • HP were increased from 351.000 HP to 882.818 HP
+>      • Damage were increased from *16 (modifier based) to *20
+>
+>      Baron Geddon
+>      • HP were increased from 586.000 HP to 1.115.397 HP
+>      • Damage were increased from *14 (modifier based) to *24
+> 
 > 
 >     * Trash Mobs Tweak
 >
