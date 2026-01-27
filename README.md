@@ -22,7 +22,7 @@ Project HL
 >           Firesworn (Garr Adds)
 >                • Firesworn Squad Size : Reduced spawn count from 8 to 4.
 >                • HP were increased from 61.040 HP to 158.704 HP
->                • Damages were Deceased from *14 (modifier based) to *10
+>                • Damages were Decreased from *14 (modifier based) to *10
 > 
 >     * Trash Mobs Tweak
 >
