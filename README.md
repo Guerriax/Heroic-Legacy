@@ -19,7 +19,7 @@ Project HL
 >      Gehennas
 >      • HP were increased from 351.000 HP to 917.386 HP
 >      • Damage were increased from *16 (modifier based) to *19
->           Flamewaker Protector (Lucifron Adds)
+>           Flamewaker (Gehennas Adds)
 >                • HP were increased from 77.700 HP to 142.450 HP
 >                • Damage were increased from *13 (modifier based) to *20
 > 
