@@ -15,9 +15,11 @@ Project HL
 >           Flamewaker Protector (Lucifron Adds)
 >                • HP were increased from 90.650 HP to 103.600 HP
 >                • Damage were increased from *13 (modifier based) to *17
+> 
 >      Magmadar
 >      • HP were increased from 826.000 HP to 1.099.113 HP
 >      • Damage were increased from *17 (modifier based) to *24
+> 
 >
 >      Garr
 >      • HP were increased from 659.000 HP to 1.201.510 HP
