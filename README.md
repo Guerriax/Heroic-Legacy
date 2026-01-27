@@ -55,7 +55,7 @@ Project HL
 > 
 >      Ancient Core Hound
 >      • HP were decreased from 113.000 HP to 64.571 HP
->      • Damages were decreased from *18 (modifier based) to *16
+>      • Damages were decreased from *18 (modifier based) to *14
 > 
 >      Molten Destroyer
 >      • HP were decreased from 149.000 HP to 74.500 HP
