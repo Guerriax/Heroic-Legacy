@@ -58,6 +58,15 @@ Project HL
 >           Core Rager (Golemagg the Incinerator Adds)
 >                • HP were increased from 80.925 HP to 161.850 HP
 >                • Damage were decreased from *14 (modifier based) to *12
+>
+>      Majordomo Executus
+>      • No changes were done.
+>           Flamewaker Healer (Majordomo Executus Adds)
+>                • HP were increased from 97.680 HP to 134.310 HP
+>                • Damage were decreased from *12 (modifier based) to *9
+>           Flamewaker Elite (Majordomo Executus Adds)
+>                • HP were increased from 103.000 HP to 206.000 HP
+>                • Damage were decreased from *14 (modifier based) to *11
 > 
 > 
 >     * Trash Mobs Tweak
