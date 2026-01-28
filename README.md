@@ -67,6 +67,9 @@ Project HL
 >           Flamewaker Elite (Majordomo Executus Adds)
 >                • HP were increased from 103.000 HP to 206.000 HP
 >                • Damage were decreased from *14 (modifier based) to *11
+>
+>      Ragnaros
+>      • HP were increased from 1.099.000 HP to 2.164.696 HP
 > 
 > 
 >     * Trash Mobs Tweak
