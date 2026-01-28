@@ -70,6 +70,7 @@ Project HL
 >
 >      Ragnaros
 >      • HP were increased from 1.099.000 HP to 2.164.696 HP
+>      • Damage were increased from *13 (modifier based) to *10
 > 
 > 
 >     * Trash Mobs Tweak
