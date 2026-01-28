@@ -42,7 +42,7 @@ Project HL
 >
 >      Baron Geddon
 >      • HP were increased from 586.000 HP to 1.115.397 HP
->      • Damage were increased from *14 (modifier based) to *24
+>      • Damage were increased from *14 (modifier based) to *19
 > 
 > 
 >     * Trash Mobs Tweak
