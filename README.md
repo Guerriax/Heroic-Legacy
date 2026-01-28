@@ -70,7 +70,9 @@ Project HL
 >
 >      Ragnaros
 >      • HP were increased from 1.099.000 HP to 2.164.696 HP
->      • Damage were increased from *13 (modifier based) to *8
+>      • Damage were decreased from *13 (modifier based) to *8
+>           Son of Flame (Ragnaros Adds)
+>                • Damage were decreased from *12 (modifier based) to *9
 > 
 > 
 >     * Trash Mobs Tweak
