@@ -43,6 +43,14 @@ Project HL
 >      Baron Geddon
 >      • HP were increased from 586.000 HP to 1.115.397 HP
 >      • Damage were increased from *14 (modifier based) to *19
+>
+>       Sulfuron Harbinger
+>      • HP were increased from 439.000 HP to 1.047.613 HP
+>      • Damage were increased from *16 (modifier based) to *22
+>           Flamewaker Priest (Sulfuron Harbinger Adds)
+>                • Flamewaker Priest Squad Size : Reduced spawn count from 4 to 3.
+>                • HP were increased from 67.980 HP to 169.950 HP
+>                • Damage were Increased from *13 (modifier based) to *15
 > 
 > 
 >     * Trash Mobs Tweak
