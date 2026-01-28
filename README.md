@@ -51,6 +51,13 @@ Project HL
 >                • Flamewaker Priest Squad Size : Reduced spawn count from 4 to 3.
 >                • HP were increased from 67.980 HP to 169.950 HP
 >                • Damage were Increased from *13 (modifier based) to *15
+>
+>      Golemagg the Incinerator
+>      • HP were increased from 826.000 HP to 1.665.322 HP
+>      • Damage were increased from *20 (modifier based) to *23
+>           Core Rager (Golemagg the Incinerator Adds)
+>                • HP were increased from 80.925 HP to 161.850 HP
+>                • Damage were decreased from *14 (modifier based) to *12
 > 
 > 
 >     * Trash Mobs Tweak
