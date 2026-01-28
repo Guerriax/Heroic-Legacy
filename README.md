@@ -62,9 +62,11 @@ Project HL
 >      Majordomo Executus
 >      • No changes were done.
 >           Flamewaker Healer (Majordomo Executus Adds)
+>                • Flamewaker Healer Squad Size : Reduced spawn count from 4 to 3.
 >                • HP were increased from 97.680 HP to 134.310 HP
 >                • Damage were decreased from *12 (modifier based) to *9
 >           Flamewaker Elite (Majordomo Executus Adds)
+>                • Flamewaker Elite Squad Size : Reduced spawn count from 4 to 3.
 >                • HP were increased from 103.000 HP to 206.000 HP
 >                • Damage were decreased from *14 (modifier based) to *11
 >
