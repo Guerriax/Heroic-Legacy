@@ -1,4 +1,4 @@
-# Audit : Guerrier - Armes (Arms Warrior)
+# Audit: Warrior - Fury
 
 > **Status:** Alpha 0.0.1
 > **Objective:** Validation of spells and talents for level 60 content.
